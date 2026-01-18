@@ -1,5 +1,5 @@
 # Leetcode-daily
-This repository contains my daily LeetCode solutions and LeetCode 75 practice.
+This repository contains my daily LeetCode solutions.
 
 ## Language
 - C++
