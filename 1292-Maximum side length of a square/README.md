@@ -1,6 +1,7 @@
 # 📐 Maximum Side Length of a Square
 
-🔗 **Problem Link:** https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold?envType=daily-question&envId=2026-01-19 
+🔗 **Problem Link:** https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold?envType=daily-question&envId=2026-01-19
+
 🧩 **Difficulty:** Medium  
 💻 **Language:** C++
 
