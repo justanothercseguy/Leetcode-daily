@@ -3,9 +3,9 @@ Link: https://leetcode.com/problems/minimum-pair-removal-to-sort-array-ii?envTyp
 
 Level: Hard
 
-⚠️ **Note before reading the code**
+⚠️ **Note before reading ahead**
 
-This solution is **not my original implementation**.
+The solution is **not my original implementation**.
 
 I decided **not to push the code itself to GitHub** because:
 - the problem turned out to be significantly more complex than expected,
